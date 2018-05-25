@@ -41,6 +41,17 @@ The tentative topics and tools to be covered include:
 *	Windows, Linux, and Mac operating systems forensics
 *	Practicing digital forensics using real data
 
+## Learning Outcomes
+The following are the expected  learning  outcomes  of the course:
+* Masters  of Science Degree:
+1. Communicate effectively orally and in writing  (LO 1) 
+2. Engage in life-long learning and self-critique  (LO 2)
+3. Function independently on self-directed projects or research where appropriate (LO 4 )
+* Doctor  of Philosophy  Degree:
+1. Graduates are expected  to communicate effectively orally and in writing  (LO 1 ) 
+2. Engage in life-long learning  and self-critique  (LO 2 ).
+3. Function in a multi-disciplinary, and culturally diverse environment with cross-functional teams (LO 3)
+
 ## Textbooks
 
 There are four sections, each would require a separate textbook. Here is the list of books used for each section:
@@ -88,16 +99,6 @@ Students will be graded based on assignments, exams, and the project (tentative)
 *	Projects (four team-based projects): 40% 
 *	Take Home Exams: 20%
 
-## Learning Outcomes
-The following are the expected  learning  outcomes  of the course:
-* Masters  of Science Degree:
-1. Communicate effectively orally and in writing  (LO 1) 
-2. Engage in life-long learning and self-critique  (LO 2)
-3. Function independently on self-directed projects or research where appropriate (LO 4 )
-* Doctor  of Philosophy  Degree:
-1. Graduates are expected  to communicate effectively orally and in writing  (LO 1 ) 
-2. Engage in life-long learning  and self-critique  (LO 2 ).
-3. Function in a multi-disciplinary, and culturally diverse environment with cross-functional teams (LO 3)
 
 
 
