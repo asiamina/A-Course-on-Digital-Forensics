@@ -19,12 +19,12 @@ This course introduces the basic concepts and techniques usually employed in dig
 These four topics constitute the skeleton of security incidents and challenges. The security and forensics challenges usually exercised at the major hacking conferences such as DEFCON and Black Hat usually require in-depth knowledge of these four major topics when performed in different platforms. 
 
 The course is completely practical supported with hands-on experiences and formal lectures. Students taking this course will be able to:
-—	Demonstrate in-depth knowledge of cyber evidence and digital forensics
-—	Perform disk, memory, and network digital forensics 
-—	Demonstrate the knowledge of using forensics tools
-—	Learn about the state-of-the-art in malware detection and analysis research 
-—	Learn the basics of incident responses
-—	Capture network, memory, and disk images for the purpose of forensics analysis
+*	Demonstrate in-depth knowledge of cyber evidence and digital forensics
+*	Perform disk, memory, and network digital forensics 
+*	Demonstrate the knowledge of using forensics tools
+*	Learn about the state-of-the-art in malware detection and analysis research 
+*	Learn the basics of incident responses
+*	Capture network, memory, and disk images for the purpose of forensics analysis
 
 The tentative topics and tools to be covered include:
 
