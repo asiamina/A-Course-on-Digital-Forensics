@@ -28,18 +28,18 @@ The course is completely practical supported with hands-on experiences and forma
 
 The tentative topics and tools to be covered include:
 
-—	Setting up a minilab for conducting experiment and analysis of digital forensics and malware execution and analysis
-—	Reverse engineering through binary analysis tools such as RootKit, REMnux, sctest, and Libemu
-—	Live collection and acquisition
-—	Disk and media analysis: Disk structure, file systems (NTFS, HFS, etc.)
-—	Disk and media forensics using tools such as Sleuthkit, Autopsy, foremost, scalpel, etc.
-—	Memory forensics using techniques such as the volatility framework, WinDBG,  
-—	Network forensics using techniques and tools such as WireShark, NetworkMiner, etc.
-—	Kali Linux
-—	Metasploitable Framework and tool
-—	OWASP-BWA (Broken Web Application)
-—	Windows, Linux, and Mac operating systems forensics
-—	Practicing digital forensics using real data
+*	Setting up a minilab for conducting experiment and analysis of digital forensics and malware execution and analysis
+*	Reverse engineering through binary analysis tools such as RootKit, REMnux, sctest, and Libemu
+*	Live collection and acquisition
+*	Disk and media analysis: Disk structure, file systems (NTFS, HFS, etc.)
+*	Disk and media forensics using tools such as Sleuthkit, Autopsy, foremost, scalpel, etc.
+*	Memory forensics using techniques such as the volatility framework, WinDBG,  
+*	Network forensics using techniques and tools such as WireShark, NetworkMiner, etc.
+*	Kali Linux
+*	Metasploitable Framework and tool
+*	OWASP-BWA (Broken Web Application)
+*	Windows, Linux, and Mac operating systems forensics
+*	Practicing digital forensics using real data
 
 
 
