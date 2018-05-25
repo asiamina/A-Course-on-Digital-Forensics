@@ -41,6 +41,20 @@ The tentative topics and tools to be covered include:
 *	Windows, Linux, and Mac operating systems forensics
 *	Practicing digital forensics using real data
 
+## Textbooks
+
+There are four sections, each would require a separate textbook. Here is the list of books used for each section:
+
+1. Reverse Engineering
+Book: [Reversing Secrets of Reverse Engineering](http://www.foo.be/cours/dess-20122013/b/Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005).pdf) 
+Author: Eldad Eilam
+Published Year: 2005
+Publisher: Wiley
+Online PDF: 
+
+
+
+
 
 
 
