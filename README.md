@@ -99,7 +99,24 @@ Students will be graded based on assignments, exams, and the project (tentative)
 *	Projects (four team-based projects): 40% 
 *	Take Home Exams: 20%
 
+## Acknowledgements
+In preperation of this course including lecture notes, lab assignments, case studies, and hands-on experiences many graduate students involved. In particular, these graduate students contributed to the development of the course through donating their created artifacts:
 
+* Kelsey Hilton (diamond contributor)
+* Sara Sartoli (gold contributor)
+* Evgenii Balai (gold contributor)
+* Prerit Datta (silver contributor)
+* Moitrayee Chatterjee (silver contributor)
+* Sevgi Arca (silver contributor)
+* Justin Lugo (silver contributor)
+* Vinh Nguyen (silver contributor)
+* Niklas Gollenstede (silver contributor)
+* Gantaphon Chalumporn (silver contributor)
+
+
+## Special Thanks
+* The National Science Foundation to support and sponsor the project
+* The CS Department for allowing offering this course for two consequtive years in order to prepare the materials. 
 
 
 
