@@ -46,13 +46,47 @@ The tentative topics and tools to be covered include:
 There are four sections, each would require a separate textbook. Here is the list of books used for each section:
 
 1. Reverse Engineering
-Book: [Reversing Secrets of Reverse Engineering](http://www.foo.be/cours/dess-20122013/b/Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005).pdf) 
-Author: Eldad Eilam
-Published Year: 2005
-Publisher: Wiley
-Online PDF: 
+* Book: [Reversing Secrets of Reverse Engineering](http://www.foo.be/cours/dess-20122013/b/Eldad_Eilam-Reversing__Secrets_of_Reverse_Engineering-Wiley(2005).pdf) 
+* Author: Eldad Eilam
+* Published Year: 2005
+* Publisher: Wiley
+
+2. Disk Forensics
+* Book: [Computer Forensics: Computer Forensics: Investigating Hard Disks, Files, and Operating Systems](https://news.asis.io/sites/default/files/Investigating_Hard_Disks_File__Operating_Systems.pdf) 
+* Author: 
+* Published Year: 2010
+* Publisher: Cengage Learning
+
+3. Memory Forensics
+* Book: [The Art of Memory Forensics](https://news.asis.io/sites/default/files/The%20Art%20of%20Memory%20Forensics.pdf)
+* Author: Michael Hale Ligh et al.
+* Published: 2014
+* Publisher: Wiley
+
+4. Network Forensics
+* Book: [Network Forensics: Tracking Hackers through Cyberspace](https://news.asis.io/sites/default/files/Network%20Forensics%202012.pdf)
+* Author: Sherri Davidoff and Jonathan Ham
+* Published: 2012
+* Publisher: Prentice Hall
+
+## Additional Hacking Textbooks
+
+5. The Hacker Play Book 2: Practical Guide to Penetration Testing, Author: Peter Kim
+6. Hacking: The Art of Exploitation, Author: Jon Erickson
 
 
+## Course Team-based Project
+
+To stimulate learning, four team and **competition**-based projects are defined.  The four projects will allow students and each team practice the necessary skillsets for each section (i.e., reverse engineering, etc.). For each project, each team plays the role of both blue and red teams and thus is responsible to build an artifact with some secret item that will be discovered by the other team. 
+
+For instance, in disk forensics, each team will create a disk dump file with some hidden secret recipes hiden in different sectors, and the other team's job is to discover the secret recipes. 
+
+## Students Evaluation
+
+Students will be graded based on assignments, exams, and the project (tentative).
+*	Assignments (four individual assignments): 40%
+*	Projects (four team-based projects): 40% 
+*	Take Home Exams: 20%
 
 
 
