@@ -105,7 +105,7 @@ Students will be graded based on assignments, exams, and the project (tentative)
 In preperation of this course including lecture notes, lab assignments, case studies, and hands-on experiences many graduate students involved. In particular, these graduate students contributed to the development of the course through donating their created artifacts:
 
 * Kelsey Hilton (diamond contributor: contributed to 1) lab setup module, 2) case studies on WannaCry, 3) Some other case studies)
-* Sara Sartoli (gold contributor: contributed to 1) Network Forensics lecture notes, 2) Some other case studies)
+* Sara Sartoli (gold contributor: contributed to 1) Network Forensics lecture notes, 2) Creating the [DigForPort](http://www.myweb.ttu.edu/asiamina/DigForPort/index.html) portal, 3) Some other case studies)
 * Fethi Inan (gold membe: contributed to 1) Memory Forensics lecture notes and modules)
 * Prerit Datta (silver contributor: contributed to 1) some other case studies)
 * Moitrayee Chatterjee (silver contributor: contributed to 1) some other case studies)
