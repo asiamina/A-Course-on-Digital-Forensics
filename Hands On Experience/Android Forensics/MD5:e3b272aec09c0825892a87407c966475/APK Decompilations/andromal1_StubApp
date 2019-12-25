@@ -1,0 +1,543 @@
+package com.stub;
+
+import android.app.Application;
+import android.content.Context;
+import android.content.res.AssetManager;
+import android.content.res.Resources;
+import android.location.Location;
+import android.location.LocationManager;
+import android.os.Build;
+import android.util.Log;
+import com.qihoo.util.Configuration;
+import dalvik.system.DexFile;
+import java.io.BufferedInputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.lang.reflect.Method;
+import java.util.Enumeration;
+
+public class StubApp extends Application
+{
+  private static Context context;
+  private static boolean loadFromLib = false;
+  public static Application runApp = null;
+  private static String soName = "libjiagu";
+
+  public static boolean copy(Context paramContext, String paramString1, String paramString2, String paramString3)
+  {
+    String str = paramString2 + "/" + paramString3;
+    File localFile1 = new File(paramString2);
+    if (!localFile1.exists())
+      localFile1.mkdir();
+    while (true)
+    {
+      InputStream localInputStream1;
+      FileOutputStream localFileOutputStream;
+      try
+      {
+        File localFile2 = new File(str);
+        if (localFile2.exists())
+        {
+          InputStream localInputStream2 = paramContext.getResources().getAssets().open(paramString1);
+          FileInputStream localFileInputStream = new FileInputStream(localFile2);
+          BufferedInputStream localBufferedInputStream1 = new BufferedInputStream(localInputStream2);
+          BufferedInputStream localBufferedInputStream2 = new BufferedInputStream(localFileInputStream);
+          if (!isSameFile(localBufferedInputStream1, localBufferedInputStream2))
+            break label272;
+          bool = true;
+          localInputStream2.close();
+          localFileInputStream.close();
+          localBufferedInputStream1.close();
+          localBufferedInputStream2.close();
+          if (bool)
+            return bool;
+        }
+        localFile2.delete();
+        localInputStream1 = paramContext.getResources().getAssets().open(paramString1);
+        localFileOutputStream = new FileOutputStream(str);
+        byte[] arrayOfByte = new byte[7168];
+        int i = localInputStream1.read(arrayOfByte);
+        if (i > 0)
+        {
+          localFileOutputStream.write(arrayOfByte, 0, i);
+          continue;
+        }
+      }
+      catch (Exception localException1)
+      {
+        localException1.printStackTrace();
+        return false;
+      }
+      localFileOutputStream.close();
+      localInputStream1.close();
+      try
+      {
+        Runtime.getRuntime().exec("chmod 755 " + str);
+        label265: return true;
+      }
+      catch (Exception localException2)
+      {
+        break label265;
+      }
+      label272: boolean bool = false;
+    }
+  }
+
+  public static Context getAppContext()
+  {
+    return context;
+  }
+
+  private void initAssetForNative()
+  {
+    try
+    {
+      Class.forName("com.qihoo.dexjiagu.TransitMgr").getMethod("initAssetForNative", new Class[] { Context.class }).invoke(null, new Object[] { this });
+      return;
+    }
+    catch (Exception localException)
+    {
+    }
+  }
+
+  private void initCrashReport()
+  {
+    try
+    {
+      Method localMethod = Class.forName("com.qihoo.bugreport.CrashReport").getDeclaredMethod("init", new Class[] { Context.class });
+      Object[] arrayOfObject = new Object[1];
+      arrayOfObject[0] = getApplicationContext();
+      localMethod.invoke(null, arrayOfObject);
+      return;
+    }
+    catch (Exception localException)
+    {
+      Log.e("CRASH_REPORT", "Failed to reflect init method of Class CrashReport.");
+    }
+  }
+
+  public static native void interface11(int paramInt);
+
+  public static native Enumeration<String> interface12(DexFile paramDexFile);
+
+  public static native void interface5(Application paramApplication);
+
+  public static native String interface6(String paramString);
+
+  public static boolean isSameFile(BufferedInputStream paramBufferedInputStream1, BufferedInputStream paramBufferedInputStream2)
+  {
+    try
+    {
+      int i = paramBufferedInputStream1.available();
+      int j = paramBufferedInputStream2.available();
+      byte[] arrayOfByte1;
+      byte[] arrayOfByte2;
+      if (i == j)
+      {
+        arrayOfByte1 = new byte[i];
+        arrayOfByte2 = new byte[j];
+        paramBufferedInputStream1.read(arrayOfByte1);
+        paramBufferedInputStream2.read(arrayOfByte2);
+      }
+      for (int k = 0; k < i; k++)
+      {
+        int m = arrayOfByte1[k];
+        int n = arrayOfByte2[k];
+        if (m != n)
+          return false;
+      }
+      return true;
+    }
+    catch (FileNotFoundException localFileNotFoundException)
+    {
+      localFileNotFoundException.printStackTrace();
+      return false;
+    }
+    catch (IOException localIOException)
+    {
+      localIOException.printStackTrace();
+    }
+    return false;
+  }
+
+  // ERROR //
+  public static Boolean isX86Arch()
+  {
+    // Byte code:
+    //   0: getstatic 198	android/os/Build:SUPPORTED_32_BIT_ABIS	[Ljava/lang/String;
+    //   3: astore 14
+    //   5: aload 14
+    //   7: arraylength
+    //   8: istore 15
+    //   10: iconst_0
+    //   11: istore 16
+    //   13: iload 16
+    //   15: iload 15
+    //   17: if_icmpge +153 -> 170
+    //   20: aload 14
+    //   22: iload 16
+    //   24: aaload
+    //   25: ldc 200
+    //   27: invokevirtual 206	java/lang/String:contains	(Ljava/lang/CharSequence;)Z
+    //   30: ifeq +16 -> 46
+    //   33: iconst_1
+    //   34: invokestatic 212	java/lang/Boolean:valueOf	(Z)Ljava/lang/Boolean;
+    //   37: astore 17
+    //   39: aload 17
+    //   41: astore 11
+    //   43: aload 11
+    //   45: areturn
+    //   46: iinc 16 1
+    //   49: goto -36 -> 13
+    //   52: astore_0
+    //   53: getstatic 215	android/os/Build:CPU_ABI	Ljava/lang/String;
+    //   56: ldc 200
+    //   58: invokevirtual 206	java/lang/String:contains	(Ljava/lang/CharSequence;)Z
+    //   61: ifne +14 -> 75
+    //   64: getstatic 218	android/os/Build:CPU_ABI2	Ljava/lang/String;
+    //   67: ldc 200
+    //   69: invokevirtual 206	java/lang/String:contains	(Ljava/lang/CharSequence;)Z
+    //   72: ifeq +8 -> 80
+    //   75: iconst_1
+    //   76: invokestatic 212	java/lang/Boolean:valueOf	(Z)Ljava/lang/Boolean;
+    //   79: areturn
+    //   80: new 220	java/io/RandomAccessFile
+    //   83: dup
+    //   84: ldc 222
+    //   86: ldc 224
+    //   88: invokespecial 227	java/io/RandomAccessFile:<init>	(Ljava/lang/String;Ljava/lang/String;)V
+    //   91: astore_1
+    //   92: aload_1
+    //   93: invokevirtual 230	java/io/RandomAccessFile:readLine	()Ljava/lang/String;
+    //   96: astore 8
+    //   98: aload 8
+    //   100: ifnull +62 -> 162
+    //   103: aload 8
+    //   105: ldc 232
+    //   107: invokevirtual 206	java/lang/String:contains	(Ljava/lang/CharSequence;)Z
+    //   110: ifeq +39 -> 149
+    //   113: aload 8
+    //   115: ldc 200
+    //   117: invokevirtual 206	java/lang/String:contains	(Ljava/lang/CharSequence;)Z
+    //   120: ifeq +29 -> 149
+    //   123: iconst_1
+    //   124: invokestatic 212	java/lang/Boolean:valueOf	(Z)Ljava/lang/Boolean;
+    //   127: astore 10
+    //   129: aload 10
+    //   131: astore 11
+    //   133: aload_1
+    //   134: ifnull -91 -> 43
+    //   137: aload_1
+    //   138: invokevirtual 233	java/io/RandomAccessFile:close	()V
+    //   141: aload 11
+    //   143: areturn
+    //   144: astore 12
+    //   146: aload 11
+    //   148: areturn
+    //   149: aload_1
+    //   150: invokevirtual 230	java/io/RandomAccessFile:readLine	()Ljava/lang/String;
+    //   153: astore 9
+    //   155: aload 9
+    //   157: astore 8
+    //   159: goto -61 -> 98
+    //   162: aload_1
+    //   163: ifnull +7 -> 170
+    //   166: aload_1
+    //   167: invokevirtual 233	java/io/RandomAccessFile:close	()V
+    //   170: iconst_0
+    //   171: invokestatic 212	java/lang/Boolean:valueOf	(Z)Ljava/lang/Boolean;
+    //   174: areturn
+    //   175: astore_2
+    //   176: aconst_null
+    //   177: astore_1
+    //   178: aload_2
+    //   179: invokevirtual 187	java/io/FileNotFoundException:printStackTrace	()V
+    //   182: aload_1
+    //   183: ifnull -13 -> 170
+    //   186: aload_1
+    //   187: invokevirtual 233	java/io/RandomAccessFile:close	()V
+    //   190: goto -20 -> 170
+    //   193: astore 5
+    //   195: goto -25 -> 170
+    //   198: astore 6
+    //   200: aconst_null
+    //   201: astore_1
+    //   202: aload 6
+    //   204: invokevirtual 188	java/io/IOException:printStackTrace	()V
+    //   207: aload_1
+    //   208: ifnull -38 -> 170
+    //   211: aload_1
+    //   212: invokevirtual 233	java/io/RandomAccessFile:close	()V
+    //   215: goto -45 -> 170
+    //   218: astore 7
+    //   220: goto -50 -> 170
+    //   223: astore_3
+    //   224: aconst_null
+    //   225: astore_1
+    //   226: aload_1
+    //   227: ifnull +7 -> 234
+    //   230: aload_1
+    //   231: invokevirtual 233	java/io/RandomAccessFile:close	()V
+    //   234: aload_3
+    //   235: athrow
+    //   236: astore 13
+    //   238: goto -68 -> 170
+    //   241: astore 4
+    //   243: goto -9 -> 234
+    //   246: astore_3
+    //   247: goto -21 -> 226
+    //   250: astore 6
+    //   252: goto -50 -> 202
+    //   255: astore_2
+    //   256: goto -78 -> 178
+    //
+    // Exception table:
+    //   from	to	target	type
+    //   0	10	52	java/lang/NoSuchFieldError
+    //   20	39	52	java/lang/NoSuchFieldError
+    //   137	141	144	java/lang/Exception
+    //   80	92	175	java/io/FileNotFoundException
+    //   186	190	193	java/lang/Exception
+    //   80	92	198	java/io/IOException
+    //   211	215	218	java/lang/Exception
+    //   80	92	223	finally
+    //   166	170	236	java/lang/Exception
+    //   230	234	241	java/lang/Exception
+    //   92	98	246	finally
+    //   103	129	246	finally
+    //   149	155	246	finally
+    //   178	182	246	finally
+    //   202	207	246	finally
+    //   92	98	250	java/io/IOException
+    //   103	129	250	java/io/IOException
+    //   149	155	250	java/io/IOException
+    //   92	98	255	java/io/FileNotFoundException
+    //   103	129	255	java/io/FileNotFoundException
+    //   149	155	255	java/io/FileNotFoundException
+  }
+
+  public static native Location mark(LocationManager paramLocationManager, String paramString);
+
+  public static native void mark();
+
+  public static native void mark(Location paramLocation);
+
+  public static native Object n010333(Object paramObject1, Object paramObject2);
+
+  public static native void n0110();
+
+  public static native boolean n0111();
+
+  public static native void n01110(int paramInt);
+
+  public static native void n011111210(int paramInt1, float paramFloat1, float paramFloat2, double paramDouble, int paramInt2);
+
+  public static native Object n01113(int paramInt);
+
+  public static native void n011130(int paramInt, Object paramObject);
+
+  public static native boolean n011131(int paramInt, Object paramObject);
+
+  public static native boolean n0111311(int paramInt1, Object paramObject, int paramInt2);
+
+  public static native Object n0111333(int paramInt, Object paramObject1, Object paramObject2);
+
+  public static native long n0112();
+
+  public static native void n01120(long paramLong);
+
+  public static native void n011210(long paramLong, int paramInt);
+
+  public static native void n0112130(long paramLong, int paramInt, Object paramObject);
+
+  public static native int n011231(long paramLong, Object paramObject);
+
+  public static native boolean n0112311(long paramLong, Object paramObject, int paramInt);
+
+  public static native void n0112330(long paramLong, Object paramObject1, Object paramObject2);
+
+  public static native Object n01123333(long paramLong, Object paramObject1, Object paramObject2, Object paramObject3);
+
+  public static native Object n0113();
+
+  public static native void n01130(Object paramObject);
+
+  public static native boolean n01131(Object paramObject);
+
+  public static native void n011310(Object paramObject, int paramInt);
+
+  public static native long n01132(Object paramObject);
+
+  public static native void n011320(Object paramObject, long paramLong);
+
+  public static native Object n01133(Object paramObject);
+
+  public static native void n011330(Object paramObject1, Object paramObject2);
+
+  public static native int n011331(Object paramObject1, Object paramObject2);
+
+  public static native void n0113310(Object paramObject1, Object paramObject2, int paramInt);
+
+  public static native void n01133110(Object paramObject1, Object paramObject2, boolean paramBoolean, int paramInt);
+
+  public static native Object n011331113(Object paramObject1, Object paramObject2, int paramInt1, int paramInt2, int paramInt3);
+
+  public static native Object n0113313113(Object paramObject1, Object paramObject2, int paramInt1, Object paramObject3, int paramInt2, int paramInt3);
+
+  public static native Object n011333(Object paramObject1, Object paramObject2);
+
+  public static native void n0113330(Object paramObject1, Object paramObject2, Object paramObject3);
+
+  public static native boolean n0113331(Object paramObject1, Object paramObject2, Object paramObject3);
+
+  public static native void n01133310(Object paramObject1, Object paramObject2, Object paramObject3, boolean paramBoolean);
+
+  public static native Object n0113333(Object paramObject1, Object paramObject2, Object paramObject3);
+
+  public static native void n01133330(Object paramObject1, Object paramObject2, Object paramObject3, Object paramObject4);
+
+  private void prepareInitCrashReport()
+  {
+    try
+    {
+      Class.forName("com.qihoo.bugreport.CrashReport").getDeclaredMethod("prepareInit", new Class[0]).invoke(null, new Object[0]);
+      return;
+    }
+    catch (Throwable localThrowable)
+    {
+      Log.e("CRASH_REPORT", "Failed to reflect prepareInit method of Class CrashReport.");
+    }
+  }
+
+  protected void attachBaseContext(Context paramContext)
+  {
+    super.attachBaseContext(paramContext);
+    context = paramContext;
+    if (runApp == null)
+      runApp = this;
+    String str1 = paramContext.getFilesDir().getParentFile().getAbsolutePath();
+    String str2 = str1 + "/.jiagu";
+    Boolean localBoolean1 = isX86Arch();
+    Boolean localBoolean2 = Boolean.valueOf(false);
+    Boolean localBoolean3 = Boolean.valueOf(false);
+    if ((Build.CPU_ABI.contains("64")) || (Build.CPU_ABI2.contains("64")))
+      localBoolean2 = Boolean.valueOf(true);
+    if ((Build.CPU_ABI.contains("mips")) || (Build.CPU_ABI2.contains("mips")))
+      localBoolean3 = Boolean.valueOf(true);
+    if (loadFromLib)
+      if (localBoolean1.booleanValue())
+        System.loadLibrary("jiagu_x86");
+    while (true)
+    {
+      interface5(this);
+      initAssetForNative();
+      return;
+      System.loadLibrary("jiagu");
+      continue;
+      if (localBoolean3.booleanValue())
+      {
+        copy(paramContext, soName + "_mips.so", str2, soName + ".so");
+        label224: if ((!localBoolean2.booleanValue()) || (localBoolean3.booleanValue()))
+          break label502;
+        if (!localBoolean1.booleanValue())
+          break label449;
+        copy(paramContext, soName + "_x64.so", str2, soName + "_64.so");
+      }
+      while (true)
+      {
+        System.load(str2 + "/" + soName + "_64.so");
+        break;
+        if (localBoolean1.booleanValue())
+        {
+          copy(paramContext, soName + "_x86.so", str2, soName + ".so");
+          break label224;
+        }
+        copy(paramContext, soName + ".so", str2, soName + ".so");
+        break label224;
+        label449: copy(paramContext, soName + "_a64.so", str2, soName + "_64.so");
+      }
+      label502: System.load(str2 + "/" + soName + ".so");
+    }
+  }
+
+  public native void n11030(Object paramObject);
+
+  public native Object n11033(Object paramObject);
+
+  public native boolean n110331(Object paramObject1, Object paramObject2);
+
+  public native void n1110();
+
+  public native int n1111();
+
+  public native void n11110(boolean paramBoolean);
+
+  public native int n11111(int paramInt);
+
+  public native void n1111130(int paramInt1, int paramInt2, Object paramObject);
+
+  public native void n111130(int paramInt, Object paramObject);
+
+  public native boolean n111131(int paramInt, Object paramObject);
+
+  public native void n11113330(int paramInt, Object paramObject1, Object paramObject2, Object paramObject3);
+
+  public native long n1112();
+
+  public native Object n1113();
+
+  public native void n11130(Object paramObject);
+
+  public native boolean n11131(Object paramObject);
+
+  public native void n111310(Object paramObject, int paramInt);
+
+  public native int n111311(Object paramObject, int paramInt);
+
+  public native void n1113110(Object paramObject, int paramInt1, int paramInt2);
+
+  public native int n1113111(Object paramObject, int paramInt1, int paramInt2);
+
+  public native void n1113130(Object paramObject1, boolean paramBoolean, Object paramObject2);
+
+  public native Object n11133(Object paramObject);
+
+  public native void n111330(Object paramObject1, Object paramObject2);
+
+  public native boolean n111331(Object paramObject1, Object paramObject2);
+
+  public native void n1113310(Object paramObject1, Object paramObject2, boolean paramBoolean);
+
+  public native void n11133110(Object paramObject1, Object paramObject2, boolean paramBoolean, int paramInt);
+
+  public native void n1113320(Object paramObject1, Object paramObject2, long paramLong);
+
+  public native boolean n1113321(Object paramObject1, Object paramObject2, long paramLong);
+
+  public native Object n1113323(Object paramObject1, Object paramObject2, long paramLong);
+
+  public native Object n111333(Object paramObject1, Object paramObject2);
+
+  public native int n1113331(Object paramObject1, Object paramObject2, Object paramObject3);
+
+  public native void n11133310(Object paramObject1, Object paramObject2, Object paramObject3, boolean paramBoolean);
+
+  public native Object n1113333(Object paramObject1, Object paramObject2, Object paramObject3);
+
+  public native int n11133331(Object paramObject1, Object paramObject2, Object paramObject3, Object paramObject4);
+
+  public native Object n111333333(Object paramObject1, Object paramObject2, Object paramObject3, Object paramObject4, Object paramObject5);
+
+  public void onCreate()
+  {
+    super.onCreate();
+    if (Configuration.ENABLE_CRASH_REPORT)
+      prepareInitCrashReport();
+    if (Configuration.ENABLE_CRASH_REPORT)
+      initCrashReport();
+  }
+}
