@@ -1,5 +1,5 @@
 ## Course Update
-(December 2019): Several hands-on experiences were added on "Android Forensics" 
+(December 2019) Several hands-on experiences were added on "Android Forensics" 
 
 # Instructional Materials for the Digital Forensics Course
 ## Texas Tech University, Computer Science Department 
