@@ -1,0 +1,2 @@
+1 Lcom/qihoo/util/StubApplication;->attachBaseContext(Landroid/content/Context;)V (0x1bc) ---> Ljava/lang/reflect/Method;->setAccessible(Z)V
+1 Lcom/qihoo/util/StubApplication;->attachBaseContext(Landroid/content/Context;)V (0x1d2) ---> Ljava/lang/reflect/Method;->invoke(Ljava/lang/Object; [Ljava/lang/Object;)Ljava/lang/Object;

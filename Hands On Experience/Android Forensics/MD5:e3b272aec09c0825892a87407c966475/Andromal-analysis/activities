@@ -1,0 +1,15 @@
+['com.bmob.im.demo.ui.SplashActivity',
+ 'com.bmob.im.demo.ui.MainActivity',
+ 'com.bmob.im.demo.ui.LoginActivity',
+ 'com.bmob.im.demo.ui.LocationActivity',
+ 'com.bmob.im.demo.ui.BlackListActivity',
+ 'com.bmob.im.demo.ui.ImageBrowserActivity',
+ 'com.bmob.im.demo.ui.AddFriendActivity',
+ 'com.bmob.im.demo.ui.NewFriendActivity',
+ 'com.bmob.im.demo.ui.NearPeopleActivity',
+ 'com.bmob.im.demo.ui.UpdateInfoActivity',
+ 'com.bmob.im.demo.ui.ChatActivity',
+ 'com.bmob.im.demo.ui.SetMyInfoActivity',
+ 'com.bmob.im.demo.ui.RegisterActivity',
+ 'csvl.kgne.wqdg.uwil.tpqx']
+

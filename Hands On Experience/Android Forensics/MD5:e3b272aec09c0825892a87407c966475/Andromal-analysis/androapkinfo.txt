@@ -1,0 +1,356 @@
+Andromal1.apk :
+FILES: 
+	META-INF/MANIFEST.MF ASCII text, with CRLF line terminators 12450b2f
+	META-INF/NEARPEOP.SF ASCII text, with CRLF line terminators 24924c90
+	META-INF/NEARPEOP.RSA data 6514a11d
+	AndroidManifest.xml data 7cd85a6a
+	assets/ empty 0
+	assets/CMRequire.dat ISO-8859 text, with CRLF line terminators -7cfca063
+	assets/Icon_bus_station.png PNG image data, 34 x 34, 8-bit colormap, non-interlaced -7b3321ed
+	assets/Icon_end.png PNG image data, 38 x 52, 8-bit/color RGBA, non-interlaced -5ff85783
+	assets/Icon_line_node.png PNG image data, 18 x 18, 8-bit colormap, non-interlaced 6503be71
+	assets/Icon_mark1.png PNG image data, 32 x 47, 8-bit colormap, non-interlaced 7e46dd9d
+	assets/Icon_mark10.png PNG image data, 32 x 47, 8-bit colormap, non-interlaced 67409be5
+	assets/Icon_mark2.png PNG image data, 32 x 47, 8-bit colormap, non-interlaced 4cce7c46
+	assets/Icon_mark3.png PNG image data, 32 x 47, 8-bit colormap, non-interlaced 6589f797
+	assets/Icon_mark4.png PNG image data, 32 x 47, 8-bit colormap, non-interlaced -20cb943d
+	assets/Icon_mark5.png PNG image data, 32 x 47, 8-bit colormap, non-interlaced 35c5c139
+	assets/Icon_mark6.png PNG image data, 32 x 47, 8-bit colormap, non-interlaced -34a4bd31
+	assets/Icon_mark7.png PNG image data, 32 x 47, 8-bit colormap, non-interlaced -11955bdd
+	assets/Icon_mark8.png PNG image data, 32 x 47, 8-bit colormap, non-interlaced -67cc5bc5
+	assets/Icon_mark9.png PNG image data, 32 x 47, 8-bit colormap, non-interlaced 73cc757f
+	assets/Icon_start.png PNG image data, 38 x 52, 8-bit/color RGBA, non-interlaced 4166ff90
+	assets/Icon_subway_station.png PNG image data, 35 x 35, 8-bit colormap, non-interlaced 3c460c1b
+	assets/Icon_walk_route.png PNG image data, 34 x 34, 8-bit colormap, non-interlaced -50dcc7ba
+	assets/VerDatset.dat ASCII text, with CRLF line terminators -1a59f121
+	assets/cfg/a/ResPack.cfg data -478f6723
+	assets/cfg/a/mapstyle.sty data 7b25c2ef
+	assets/cfg/a/satellitestyle.sty data -15cebcca
+	assets/cfg/a/trafficstyle.sty data -253a0653
+	assets/cfg/h/DVDirectory.cfg ISO-8859 text -5a84f0df
+	assets/cfg/h/DVHotcity.cfg ISO-8859 text 5ccac71b
+	assets/cfg/h/DVVersion.cfg ASCII text, with CRLF line terminators 6d57bd5e
+	assets/cfg/l/DVDirectory.cfg ISO-8859 text 6de8b254
+	assets/cfg/l/DVHotcity.cfg ISO-8859 text 74f8de31
+	assets/cfg/l/DVVersion.cfg ASCII text, with CRLF line terminators 6d57bd5e
+	assets/icon_scale.9.png PNG image data, 7 x 7, 8-bit/color RGBA, non-interlaced 41b95abd
+	assets/libjiagu.so ELF 32-bit LSB  shared object, ARM, EABI5 version 1 (SYSV) 3879aef7
+	assets/libjiagu_x86.so ELF 32-bit LSB  shared object, Intel 80386, version 1 (SYSV) 6087d971
+	assets/logo_h.png PNG image data, 88 x 32, 8-bit/color RGBA, non-interlaced -301ec197
+	assets/logo_l.png PNG image data, 44 x 16, 8-bit/color RGBA, non-interlaced -26426f5c
+	assets/place/arrow.png PNG image data, 14 x 23, 8-bit/color RGBA, non-interlaced 4e2f81f5
+	assets/place/iconphone.png PNG image data, 36 x 36, 8-bit/color RGBA, non-interlaced -40ca6780
+	assets/place/star_gray.png PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced -32eea8c6
+	assets/place/star_light.png PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced -2170b6d9
+	assets/sapi_cert.cer data 530a23fc
+	classes.dex Dalvik dex file version 035 17cd81b5
+	lib/armeabi/libBaiduMapSDK_v3_0_0.so ELF 32-bit LSB  shared object, ARM, EABI5 version 1 (SYSV) -3c5cb2ea
+	lib/armeabi/liblocSDK4d.so ELF 32-bit LSB  shared object, ARM, EABI5 version 1 (SYSV) 2b59a556
+	res/anim/anim_chat_voice_left.xml data 33aa700e
+	res/anim/anim_chat_voice_right.xml data 4b2c03c3
+	res/anim/grow_from_bottom.xml data -1a4b4700
+	res/anim/shrink_from_top.xml data -3c5f9689
+	res/drawable-hdpi-v4/about_bottom_bg.9.png PNG image data, 430 x 45, 8-bit/color RGBA, non-interlaced 13eabf47
+	res/drawable-hdpi-v4/about_mid_bg.9.png PNG image data, 430 x 45, 8-bit/color RGBA, non-interlaced -4b719f9
+	res/drawable-hdpi-v4/about_top_bg.9.png PNG image data, 430 x 46, 8-bit/color RGBA, non-interlaced 7a2aeaff
+	res/drawable-hdpi-v4/app_list.png PNG image data, 116 x 118, 8-bit/color RGBA, non-interlaced e2e3034
+	res/drawable-hdpi-v4/base_dialog_bg.9.png PNG image data, 144 x 171, 8-bit/color RGBA, non-interlaced 6674b09d
+	res/drawable-hdpi-v4/base_horizontal_line.9.png PNG image data, 22 x 2, 8-bit/color RGBA, non-interlaced -24068d2d
+	res/drawable-hdpi-v4/base_horizontal_line_red.9.png PNG image data, 28 x 3, 8-bit/color RGBA, non-interlaced 5a114f77
+	res/drawable-hdpi-v4/chat_fail_resend_normal.png PNG image data, 44 x 44, 8-bit/color RGBA, non-interlaced -3a0af7f6
+	res/drawable-hdpi-v4/chat_fail_resend_press.png PNG image data, 44 x 44, 8-bit/color RGBA, non-interlaced -190535f1
+	res/drawable-hdpi-v4/chat_icon_voice1.png PNG image data, 238 x 184, 8-bit colormap, non-interlaced -2dd3f0b
+	res/drawable-hdpi-v4/chat_icon_voice2.png PNG image data, 238 x 184, 8-bit colormap, non-interlaced -44b55e68
+	res/drawable-hdpi-v4/chat_icon_voice3.png PNG image data, 238 x 184, 8-bit colormap, non-interlaced -32625442
+	res/drawable-hdpi-v4/chat_icon_voice4.png PNG image data, 238 x 184, 8-bit colormap, non-interlaced 2c3a1309
+	res/drawable-hdpi-v4/chat_icon_voice5.png PNG image data, 238 x 184, 8-bit colormap, non-interlaced -46c0b604
+	res/drawable-hdpi-v4/chat_icon_voice6.png PNG image data, 238 x 184, 8-bit colormap, non-interlaced 4056f50e
+	res/drawable-hdpi-v4/chat_icon_voice_short.png PNG image data, 150 x 150, 8-bit colormap, non-interlaced -eeb131e
+	res/drawable-hdpi-v4/chat_keyboard_normal.png PNG image data, 59 x 59, 8-bit colormap, non-interlaced -699cac8b
+	res/drawable-hdpi-v4/chat_keyboard_press.png PNG image data, 59 x 59, 8-bit colormap, non-interlaced 50a12626
+	res/drawable-hdpi-v4/chat_top_voice_bg.9.png PNG image data, 59 x 54, 8-bit/color RGBA, non-interlaced -7eb95814
+	res/drawable-hdpi-v4/chat_voice_normal.png PNG image data, 59 x 59, 8-bit colormap, non-interlaced -12998270
+	res/drawable-hdpi-v4/chat_voice_press.png PNG image data, 59 x 59, 8-bit colormap, non-interlaced -6107350f
+	res/drawable-hdpi-v4/contact_list_buddy_item_bg.9.png PNG image data, 7 x 94, 8-bit/color RGBA, non-interlaced -494cc405
+	res/drawable-hdpi-v4/default_head.png PNG image data, 100 x 100, 8-bit colormap, non-interlaced 2c51b135
+	res/drawable-hdpi-v4/ic_launcher.png PNG image data, 512 x 512, 8-bit/color RGB, non-interlaced 50345937
+	res/drawable-hdpi-v4/icon_geo.png PNG image data, 35 x 35, 8-bit/color RGBA, non-interlaced 6ccfa77e
+	res/drawable-hdpi-v4/icon_near.png PNG image data, 80 x 80, 8-bit/color RGBA, non-interlaced -1aab1e73
+	res/drawable-hdpi-v4/list_conversation_press.9.png PNG image data, 18 x 88, 8-bit/color RGBA, non-interlaced -3e566171
+	res/drawable-hdpi-v4/list_newmessage2.9.png PNG image data, 13 x 26, 8-bit/color RGBA, non-interlaced -319b0ca0
+	res/drawable-hdpi-v4/location_default.9.png PNG image data, 142 x 124, 8-bit/color RGBA, non-interlaced edd814e
+	res/drawable-hdpi-v4/login_logo.png PNG image data, 800 x 800, 8-bit/color RGB, non-interlaced 3740e052
+	res/drawable-hdpi-v4/msg_tips.png PNG image data, 14 x 14, 8-bit colormap, non-interlaced 35d141b3
+	res/drawable-hdpi-v4/new_friends_icon.png PNG image data, 80 x 80, 8-bit/color RGBA, non-interlaced -25dadabb
+	res/drawable-hdpi-v4/pop_bg.9.png PNG image data, 45 x 51, 8-bit/color RGBA, non-interlaced -1c7245a7
+	res/drawable-hdpi-v4/pop_bg_press.9.png PNG image data, 10 x 13, 8-bit/color RGBA, non-interlaced -11f7d4d2
+	res/drawable-hdpi-v4/refresh_black.png PNG image data, 38 x 38, 8-bit gray+alpha, non-interlaced -1e625c3f
+	res/drawable-hdpi-v4/register_bottom_arrow.png PNG image data, 17 x 29, 8-bit colormap, non-interlaced -45ce16ed
+	res/drawable-hdpi-v4/top_bar.9.png PNG image data, 24 x 27, 8-bit/color RGBA, non-interlaced -7d1e6b0
+	res/drawable-hdpi-v4/voice_left.png PNG image data, 49 x 52, 8-bit colormap, non-interlaced 65b4bc9
+	res/drawable-hdpi-v4/voice_left1.png PNG image data, 49 x 52, 8-bit colormap, non-interlaced -469ed3cf
+	res/drawable-hdpi-v4/voice_left2.png PNG image data, 49 x 52, 8-bit colormap, non-interlaced -26f4493
+	res/drawable-hdpi-v4/voice_left3.png PNG image data, 49 x 52, 8-bit colormap, non-interlaced -65c7c498
+	res/drawable-hdpi-v4/voice_right.png PNG image data, 47 x 46, 8-bit colormap, non-interlaced 414304a7
+	res/drawable-hdpi-v4/voice_right1.png PNG image data, 47 x 46, 8-bit colormap, non-interlaced 7fff51a5
+	res/drawable-hdpi-v4/voice_right2.png PNG image data, 47 x 46, 8-bit colormap, non-interlaced 64e19b59
+	res/drawable-hdpi-v4/voice_right3.png PNG image data, 47 x 46, 8-bit colormap, non-interlaced 130dc4ae
+	res/drawable-ldpi-v4/ic_launcher.png PNG image data, 512 x 512, 8-bit/color RGB, non-interlaced 50345937
+	res/drawable-ldpi-v4/login_logo.png PNG image data, 800 x 800, 8-bit/color RGB, non-interlaced 3740e052
+	res/drawable-mdpi-v4/bdp_update_logo.png PNG image data, 24 x 24, 8-bit/color RGBA, non-interlaced -2c35efc8
+	res/drawable-mdpi-v4/ic_launcher.png PNG image data, 512 x 512, 8-bit/color RGB, non-interlaced 50345937
+	res/drawable-mdpi-v4/login_logo.png PNG image data, 800 x 800, 8-bit/color RGB, non-interlaced 3740e052
+	res/drawable-xhdpi-v4/arrow.png PNG image data, 26 x 63, 8-bit/color RGBA, non-interlaced -32ed6022
+	res/drawable-xhdpi-v4/base_action_bar_add_bg_n.png PNG image data, 48 x 48, 8-bit colormap, non-interlaced 4ff1cd1f
+	res/drawable-xhdpi-v4/base_action_bar_add_bg_p.png PNG image data, 48 x 48, 8-bit colormap, non-interlaced -3a12f71c
+	res/drawable-xhdpi-v4/base_action_bar_back_bg_n.png PNG image data, 43 x 43, 8-bit colormap, non-interlaced -483e98bf
+	res/drawable-xhdpi-v4/base_action_bar_back_bg_p.png PNG image data, 43 x 43, 8-bit colormap, non-interlaced 20302933
+	res/drawable-xhdpi-v4/base_action_bar_more_bg_n.png PNG image data, 48 x 48, 8-bit colormap, non-interlaced -778ce370
+	res/drawable-xhdpi-v4/base_action_bar_more_bg_p.png PNG image data, 48 x 48, 8-bit colormap, non-interlaced -26a9b3cb
+	res/drawable-xhdpi-v4/base_action_bar_true_bg_n.png PNG image data, 48 x 48, 8-bit colormap, non-interlaced -270036d8
+	res/drawable-xhdpi-v4/base_action_bar_true_bg_p.png PNG image data, 48 x 48, 8-bit colormap, non-interlaced -3bc21629
+	res/drawable-xhdpi-v4/base_comment_emo_bar.9.png PNG image data, 20 x 23, 8-bit/color RGBA, non-interlaced 2b9be5c9
+	res/drawable-xhdpi-v4/base_edit_input.9.png PNG image data, 40 x 34, 8-bit/color RGBA, non-interlaced -4c75c449
+	res/drawable-xhdpi-v4/base_horization_line.png PNG image data, 658 x 1, 8-bit colormap, non-interlaced 37a8b26f
+	res/drawable-xhdpi-v4/bg_chat_emote_selector.9.png PNG image data, 38 x 38, 8-bit/color RGBA, non-interlaced -42bfa250
+	res/drawable-xhdpi-v4/btn_clear.png PNG image data, 36 x 36, 8-bit colormap, non-interlaced -407a46b1
+	res/drawable-xhdpi-v4/btn_login_n.9.png PNG image data, 29 x 22, 8-bit/color RGBA, non-interlaced 51fb48fe
+	res/drawable-xhdpi-v4/btn_login_p.9.png PNG image data, 29 x 22, 8-bit/color RGBA, non-interlaced 43f945dd
+	res/drawable-xhdpi-v4/btn_logout_n.9.png PNG image data, 22 x 21, 8-bit/color RGBA, non-interlaced -7acb4dae
+	res/drawable-xhdpi-v4/btn_logout_p.9.png PNG image data, 22 x 21, 8-bit/color RGBA, non-interlaced -6d2000ea
+	res/drawable-xhdpi-v4/btn_send_n.9.png PNG image data, 23 x 20, 8-bit/color RGBA, non-interlaced 1b7584df
+	res/drawable-xhdpi-v4/btn_send_press.9.png PNG image data, 23 x 20, 8-bit/color RGBA, non-interlaced -658700b
+	res/drawable-xhdpi-v4/chat_add_camera_normal.png PNG image data, 114 x 114, 8-bit colormap, non-interlaced 80afda
+	res/drawable-xhdpi-v4/chat_add_camera_press.png PNG image data, 114 x 114, 8-bit colormap, non-interlaced 2970eca2
+	res/drawable-xhdpi-v4/chat_add_location_normal.png PNG image data, 114 x 114, 8-bit colormap, non-interlaced 3e5e0302
+	res/drawable-xhdpi-v4/chat_add_location_press.png PNG image data, 114 x 114, 8-bit colormap, non-interlaced 1f5e2c2e
+	res/drawable-xhdpi-v4/chat_add_normal.png PNG image data, 59 x 59, 8-bit colormap, non-interlaced bcfa8af
+	res/drawable-xhdpi-v4/chat_add_picture_normal.png PNG image data, 114 x 114, 8-bit colormap, non-interlaced -6976ec2c
+	res/drawable-xhdpi-v4/chat_add_picture_press.png PNG image data, 114 x 114, 8-bit colormap, non-interlaced -1ee43201
+	res/drawable-xhdpi-v4/chat_add_press.png PNG image data, 59 x 59, 8-bit colormap, non-interlaced -68416b0
+	res/drawable-xhdpi-v4/chat_emo_normal.png PNG image data, 59 x 61, 8-bit colormap, non-interlaced -97804ec
+	res/drawable-xhdpi-v4/chat_emo_press.png PNG image data, 59 x 61, 8-bit colormap, non-interlaced 41fafc2f
+	res/drawable-xhdpi-v4/chat_left_qp.9.png PNG image data, 62 x 46, 8-bit/color RGBA, non-interlaced 5977706
+	res/drawable-xhdpi-v4/chat_right_qp.9.png PNG image data, 62 x 46, 8-bit/color RGBA, non-interlaced -2009a98d
+	res/drawable-xhdpi-v4/chat_send_n.png PNG image data, 55 x 55, 8-bit colormap, non-interlaced 5c53784d
+	res/drawable-xhdpi-v4/chat_send_p.png PNG image data, 55 x 55, 8-bit colormap, non-interlaced -dbc143c
+	res/drawable-xhdpi-v4/chat_time_block.9.png PNG image data, 30 x 30, 8-bit/color RGBA, non-interlaced 27457179
+	res/drawable-xhdpi-v4/chat_voice_bg.9.png PNG image data, 23 x 23, 8-bit/color RGBA, non-interlaced 3a893a0a
+	res/drawable-xhdpi-v4/chat_voice_bg_press.9.png PNG image data, 23 x 23, 8-bit/color RGBA, non-interlaced 1a5c8fbf
+	res/drawable-xhdpi-v4/emo_delete_normal.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 698832b
+	res/drawable-xhdpi-v4/emo_delete_press.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -2d76ad
+	res/drawable-xhdpi-v4/head.png PNG image data, 136 x 136, 8-bit/color RGBA, non-interlaced -d34c555
+	res/drawable-xhdpi-v4/ic_launcher.png PNG image data, 512 x 512, 8-bit/color RGB, non-interlaced 50345937
+	res/drawable-xhdpi-v4/icon_contact_normal.png PNG image data, 49 x 49, 8-bit/color RGBA, non-interlaced -653a72ba
+	res/drawable-xhdpi-v4/icon_contact_press.png PNG image data, 49 x 49, 8-bit colormap, non-interlaced 60e50331
+	res/drawable-xhdpi-v4/icon_message_normal.png PNG image data, 49 x 49, 8-bit/color RGBA, non-interlaced -4fae3f9e
+	res/drawable-xhdpi-v4/icon_message_press.png PNG image data, 49 x 49, 8-bit colormap, non-interlaced -dd84d49
+	res/drawable-xhdpi-v4/icon_msg_search.png PNG image data, 26 x 32, 8-bit colormap, non-interlaced 524320dd
+	res/drawable-xhdpi-v4/icon_set_normal.png PNG image data, 49 x 49, 8-bit/color RGBA, non-interlaced 432c1c7e
+	res/drawable-xhdpi-v4/icon_set_press.png PNG image data, 49 x 49, 8-bit/color RGBA, non-interlaced -6d0d6620
+	res/drawable-xhdpi-v4/input_bg.9.png PNG image data, 17 x 18, 8-bit/color RGBA, non-interlaced 1920154f
+	res/drawable-xhdpi-v4/login_bg.png PNG image data, 720 x 1230, 8-bit colormap, non-interlaced -3acad694
+	res/drawable-xhdpi-v4/login_icon_account.png PNG image data, 35 x 35, 8-bit colormap, non-interlaced -483e5ec4
+	res/drawable-xhdpi-v4/login_icon_password.png PNG image data, 35 x 35, 8-bit colormap, non-interlaced -26777706
+	res/drawable-xhdpi-v4/login_logo.png PNG image data, 800 x 800, 8-bit/color RGB, non-interlaced 3740e052
+	res/drawable-xhdpi-v4/off.png PNG image data, 100 x 70, 8-bit gray+alpha, non-interlaced 403246af
+	res/drawable-xhdpi-v4/on.png PNG image data, 100 x 70, 8-bit/color RGBA, non-interlaced 1bb4a939
+	res/drawable-xhdpi-v4/search_clear_normal.png PNG image data, 30 x 30, 8-bit colormap, non-interlaced -30690706
+	res/drawable-xhdpi-v4/search_clear_pressed.png PNG image data, 30 x 30, 8-bit colormap, non-interlaced 5d13ef0e
+	res/drawable-xhdpi-v4/ue00e.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -6a8f0604
+	res/drawable-xhdpi-v4/ue056.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -60780333
+	res/drawable-xhdpi-v4/ue057.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 38cc19b
+	res/drawable-xhdpi-v4/ue058.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -3a68323
+	res/drawable-xhdpi-v4/ue059.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 1c721d00
+	res/drawable-xhdpi-v4/ue105.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 6e1100f0
+	res/drawable-xhdpi-v4/ue106.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 22713ea9
+	res/drawable-xhdpi-v4/ue107.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 65adbd14
+	res/drawable-xhdpi-v4/ue108.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -6817db9f
+	res/drawable-xhdpi-v4/ue11a.png PNG image data, 20 x 20, 8-bit colormap, non-interlaced 19b44d42
+	res/drawable-xhdpi-v4/ue401.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 20a2d898
+	res/drawable-xhdpi-v4/ue402.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 564619a2
+	res/drawable-xhdpi-v4/ue403.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -2eb47bc8
+	res/drawable-xhdpi-v4/ue404.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -ffddf3
+	res/drawable-xhdpi-v4/ue405.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 1479ff9c
+	res/drawable-xhdpi-v4/ue406.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -1f69d93f
+	res/drawable-xhdpi-v4/ue407.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -4916e1f
+	res/drawable-xhdpi-v4/ue408.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 3caf8c01
+	res/drawable-xhdpi-v4/ue409.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 1aca334
+	res/drawable-xhdpi-v4/ue40a.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 8540fa2
+	res/drawable-xhdpi-v4/ue40b.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -3a750508
+	res/drawable-xhdpi-v4/ue40c.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 32856289
+	res/drawable-xhdpi-v4/ue40d.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -1667b6a1
+	res/drawable-xhdpi-v4/ue40e.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -6ff04357
+	res/drawable-xhdpi-v4/ue40f.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 4a631d78
+	res/drawable-xhdpi-v4/ue410.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -2177ab37
+	res/drawable-xhdpi-v4/ue411.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -5daab501
+	res/drawable-xhdpi-v4/ue412.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 1879221b
+	res/drawable-xhdpi-v4/ue413.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -3dccf5e8
+	res/drawable-xhdpi-v4/ue414.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -4c6bb7c7
+	res/drawable-xhdpi-v4/ue415.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 111dbe99
+	res/drawable-xhdpi-v4/ue416.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced 3c6e5a0f
+	res/drawable-xhdpi-v4/ue417.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -6703b096
+	res/drawable-xhdpi-v4/ue418.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -4e64c388
+	res/drawable-xhdpi-v4/ue41f.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -2e2341fe
+	res/drawable-xhdpi-v4/ue421.png PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced -6f2eb463
+	res/drawable-xhdpi-v4/user_add_top_bg.9.png PNG image data, 50 x 38, 8-bit/color RGBA, non-interlaced -65136a8c
+	res/drawable-xxhdpi-v4/ic_launcher.png PNG image data, 512 x 512, 8-bit/color RGB, non-interlaced 50345937
+	res/drawable-xxhdpi-v4/login_logo.png PNG image data, 800 x 800, 8-bit/color RGB, non-interlaced 3740e052
+	res/drawable/base_action_bar_add_bg_selector.xml data -7b76e635
+	res/drawable/base_action_bar_back_bg_selector.xml data -7b1bf803
+	res/drawable/base_action_bar_more_bg_selector.xml data -11444a27
+	res/drawable/base_action_bar_true_bg_selector.xml data -655df3f4
+	res/drawable/btn_chat_add_camera_selector.xml data -397e3a56
+	res/drawable/btn_chat_add_location_selector.xml data 284016f3
+	res/drawable/btn_chat_add_picture_selector.xml data 23f222d3
+	res/drawable/btn_chat_add_selector.xml data 392c634d
+	res/drawable/btn_chat_emo_selector.xml data 4272bae1
+	res/drawable/btn_chat_fail_resend.xml data 2b3bc890
+	res/drawable/btn_chat_keyboard_selector.xml data -1d136367
+	res/drawable/btn_chat_record_selector.xml data -22f41aff
+	res/drawable/btn_chat_send_selector.xml data 45956949
+	res/drawable/btn_chat_voice_selector.xml data 25e245a9
+	res/drawable/btn_emo_delete_selector.xml data -399cfddd
+	res/drawable/btn_emote_selector.xml data -759a056c
+	res/drawable/btn_login_selector.xml data -1b57203f
+	res/drawable/btn_logout_selector.xml data 773da34b
+	res/drawable/btn_selector.xml data 31182631
+	res/drawable/btn_send_selector.xml data 3c781b15
+	res/drawable/button_bg.xml data -773b3c22
+	res/drawable/button_normal_shape.xml data -37075215
+	res/drawable/button_selector_shape.xml data 67d8cc13
+	res/drawable/dialog_btn_selector.xml data -58736f44
+	res/drawable/dialog_shape_normal.xml GeoSwath RDF 417975c1
+	res/drawable/dialog_shape_pressed.xml GeoSwath RDF -6fd23686
+	res/drawable/ic_launcher.png PNG image data, 512 x 512, 8-bit/color RGB, non-interlaced 50345937
+	res/drawable/ios7_btn.xml data 5ec61a58
+	res/drawable/loginlogo.png PNG image data, 128 x 128, 8-bit/color RGBA, non-interlaced 46c0a2ab
+	res/drawable/logo.png PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced 75365f27
+	res/drawable/progress_black.xml data 2fbd1478
+	res/drawable/recent_message_text_color_selector.xml data -360db75f
+	res/drawable/recent_name_text_color_selector.xml data 4bbc9854
+	res/drawable/search_clear.xml data -5188a03e
+	res/drawable/tab_contact_btn.xml data 6c2473f4
+	res/drawable/tab_message_btn.xml data -6ee6a1c3
+	res/drawable/tab_set_btn.xml data -5f68db0b
+	res/drawable/tab_textcolor.xml data -4ad8772b
+	res/drawable/v2_gallery_contacts_dialog_background.xml data -16ec76dd
+	res/drawable/v2_sortlistview_sidebar_background.xml data 22246c04
+	res/layout/activity_add_contact.xml data -75c33cbc
+	res/layout/activity_blacklist.xml data 2f506883
+	res/layout/activity_chat.xml data -2b8c858
+	res/layout/activity_location.xml data -e8c4ad8
+	res/layout/activity_login.xml data -730fd1cf
+	res/layout/activity_main.xml data -295bd962
+	res/layout/activity_near_people.xml data 7d76d8d8
+	res/layout/activity_new_friend.xml data -1e5ceecd
+	res/layout/activity_register.xml data -94adec4
+	res/layout/activity_set_info.xml data -45eb9aaa
+	res/layout/activity_set_updateinfo.xml data 3b67828a
+	res/layout/activity_showpicture.xml data 3ffff16
+	res/layout/activity_splash.xml data 7326b1d3
+	res/layout/common_header.xml data -799d9465
+	res/layout/common_header_button.xml data -524aa912
+	res/layout/common_header_rightbutton.xml data -4d72e872
+	res/layout/fragment_contacts.xml data -212ffba4
+	res/layout/fragment_recent.xml data -63cfd72f
+	res/layout/fragment_set.xml data 176aee35
+	res/layout/include_action_bar.xml data -7fe4c66a
+	res/layout/include_chat_add.xml data -6f546011
+	res/layout/include_chat_bottom_bar.xml data 5c58212a
+	res/layout/include_chat_voice_short.xml data 6a993a60
+	res/layout/include_emo_gridview.xml data -38143ad3
+	res/layout/include_new_friend.xml data -7af161e7
+	res/layout/item_add_friend.xml data 3484942
+	res/layout/item_blacklist.xml data -401dc09c
+	res/layout/item_chat_received_image.xml data 4ed4a6f9
+	res/layout/item_chat_received_location.xml data 682b4cf0
+	res/layout/item_chat_received_message.xml data -194e5419
+	res/layout/item_chat_received_voice.xml data 38c0e81e
+	res/layout/item_chat_sent_image.xml data -33e48e6b
+	res/layout/item_chat_sent_location.xml data 2f3235ec
+	res/layout/item_chat_sent_message.xml data 451ed43a
+	res/layout/item_chat_sent_voice.xml data 69b0d0dd
+	res/layout/item_conversation.xml data -3d2214d6
+	res/layout/item_face_text.xml data -21c394fc
+	res/layout/item_near_people.xml data -136ceb00
+	res/layout/item_show_picture.xml data -6fff97fc
+	res/layout/item_user_friend.xml data -59c5c23d
+	res/layout/pop_showavator.xml data 7c762478
+	res/layout/v2_dialog_base.xml data -1bee4d4a
+	res/layout/xlistview_footer.xml data -552937b0
+	res/layout/xlistview_header.xml data 5ab91fd5
+	res/menu-v11/main.xml data -15acf725
+	res/menu/main.xml data -6f2af456
+	res/raw/notify.mp3 MPEG ADTS, layer III, v1,  96 kbps, 44.1 kHz, Stereo -5ce83eb2
+	resources.arsc data -28b80e82
+PERMISSIONS: 
+	android.permission.USE_CREDENTIALS ['dangerous', 'use the authentication credentials of an account', 'Allows an application to request authentication tokens.']
+	android.permission.READ_LOGS ['signatureOrSystemOrDevelopment', 'read sensitive log data', "Allows an application to read from the system's various log files. This allows it to discover general information about what you are doing with the phone, potentially including personal or private information."]
+	android.permission.PROCESS_OUTGOING_CALLS ['dangerous', 'intercept outgoing calls', 'Allows application to process outgoing calls and change the number to be dialled. Malicious applications may monitor, redirect or prevent outgoing calls.']
+	android.permission.ACCESS_COARSE_LOCATION ['dangerous', 'coarse (network-based) location', 'Access coarse location sources, such as the mobile network database, to determine an approximate phone location, where available. Malicious applications can use this to determine approximately where you are.']
+	android.permission.CAMERA ['dangerous', 'take pictures and videos', 'Allows application to take pictures and videos with the camera. This allows the application to collect images that the camera is seeing at any time.']
+	android.permission.INTERNET ['dangerous', 'full Internet access', 'Allows an application to create network sockets.']
+	android.permission.MANAGE_ACCOUNTS ['dangerous', 'manage the accounts list', 'Allows an application to perform operations like adding and removing accounts and deleting their password.']
+	android.permission.SEND_SMS ['dangerous', 'send SMS messages', 'Allows application to send SMS messages. Malicious applications may cost you money by sending messages without your confirmation.']
+	android.permission.ACCESS_MOCK_LOCATION ['dangerous', 'mock location sources for testing', 'Create mock location sources for testing. Malicious applications can use this to override the location and/or status returned by real-location sources such as GPS or Network providers.']
+	android.permission.ACCESS_NETWORK_STATE ['normal', 'view network status', 'Allows an application to view the status of all networks.']
+	android.permission.GET_TASKS ['dangerous', 'retrieve running applications', 'Allows application to retrieve information about currently and recently running tasks. May allow malicious applications to discover private information about other applications.']
+	android.permission.ACCESS_GPS ['normal', 'Unknown permission from android reference', 'Unknown permission from android reference']
+	android.permission.WRITE_EXTERNAL_STORAGE ['dangerous', 'modify/delete SD card contents', 'Allows an application to write to the SD card.']
+	android.permission.ACCESS_FINE_LOCATION ['dangerous', 'fine (GPS) location', 'Access fine location sources, such as the Global Positioning System on the phone, where available. Malicious applications can use this to determine where you are and may consume additional battery power.']
+	android.permission.RECEIVE_BOOT_COMPLETED ['normal', 'automatically start at boot', 'Allows an application to start itself as soon as the system has finished booting. This can make it take longer to start the phone and allow the application to slow down the overall phone by always running.']
+	android.permission.READ_CONTACTS ['dangerous', 'read contact data', 'Allows an application to read all of the contact (address) data stored on your phone. Malicious applications can use this to send your data to other people.']
+	android.permission.AUTHENTICATE_ACCOUNTS ['dangerous', 'act as an account authenticator', 'Allows an application to use the account authenticator capabilities of the Account Manager, including creating accounts as well as obtaining and setting their passwords.']
+	com.android.launcher.permission.READ_SETTINGS ['normal', 'Unknown permission from android reference', 'Unknown permission from android reference']
+	android.permission.BROADCAST_STICKY ['normal', 'send sticky broadcast', 'Allows an application to send sticky broadcasts, which remain after the broadcast ends. Malicious applications can make the phone slow or unstable by causing it to use too much memory.']
+	android.permission.CALL_PHONE ['dangerous', 'directly call phone numbers', 'Allows an application to initiate a phone call without going through the Dialer user interface for the user to confirm the call being placed. ']
+	android.permission.WRITE_SETTINGS ['normal', 'modify global system settings', "Allows an application to modify the system's settings data. Malicious applications can corrupt your system's configuration."]
+	android.permission.READ_PHONE_STATE ['dangerous', 'read phone state and identity', 'Allows the application to access the phone features of the device. An application with this permission can determine the phone number and serial number of this phone, whether a call is active, the number that call is connected to and so on.']
+	android.permission.MODIFY_AUDIO_SETTINGS ['normal', 'change your audio settings', 'Allows application to modify global audio settings, such as volume and routing.']
+	android.permission.READ_SMS ['dangerous', 'read SMS or MMS', 'Allows application to read SMS messages stored on your phone or SIM card. Malicious applications may read your confidential messages.']
+	android.permission.VIBRATE ['normal', 'control vibrator', 'Allows the application to control the vibrator.']
+	android.permission.SYSTEM_ALERT_WINDOW ['dangerous', 'display system-level alerts', 'Allows an application to show system-alert windows. Malicious applications can take over the entire screen of the phone.']
+	android.permission.ACCESS_WIFI_STATE ['normal', 'view Wi-Fi status', 'Allows an application to view the information about the status of Wi-Fi.']
+	cn.bmob.permission.push ['normal', 'Unknown permission from android reference', 'Unknown permission from android reference']
+	android.permission.WAKE_LOCK ['normal', 'prevent phone from sleeping', 'Allows an application to prevent the phone from going to sleep.']
+	android.permission.CHANGE_WIFI_STATE ['dangerous', 'change Wi-Fi status', 'Allows an application to connect to and disconnect from Wi-Fi access points and to make changes to configured Wi-Fi networks.']
+	android.permission.RECORD_AUDIO ['dangerous', 'record audio', 'Allows application to access the audio record path.']
+	android.permission.BAIDU_LOCATION_SERVICE ['normal', 'Unknown permission from android reference', 'Unknown permission from android reference']
+	android.permission.MOUNT_UNMOUNT_FILESYSTEMS ['signatureOrSystem', 'mount and unmount file systems', 'Allows the application to mount and unmount file systems for removable storage.']
+	android.permission.GET_ACCOUNTS ['normal', 'discover known accounts', 'Allows an application to access the list of accounts known by the phone.']
+MAIN ACTIVITY:  com.bmob.im.demo.ui.SplashActivity
+ACTIVITIES: 
+	com.bmob.im.demo.ui.SplashActivity {'action': [u'android.intent.action.MAIN'], 'category': [u'android.intent.category.LAUNCHER']}
+	com.bmob.im.demo.ui.MainActivity 
+	com.bmob.im.demo.ui.LoginActivity 
+	com.bmob.im.demo.ui.LocationActivity 
+	com.bmob.im.demo.ui.BlackListActivity 
+	com.bmob.im.demo.ui.ImageBrowserActivity 
+	com.bmob.im.demo.ui.AddFriendActivity 
+	com.bmob.im.demo.ui.NewFriendActivity 
+	com.bmob.im.demo.ui.NearPeopleActivity 
+	com.bmob.im.demo.ui.UpdateInfoActivity 
+	com.bmob.im.demo.ui.ChatActivity 
+	com.bmob.im.demo.ui.SetMyInfoActivity 
+	com.bmob.im.demo.ui.RegisterActivity 
+	csvl.kgne.wqdg.uwil.tpqx 
+SERVICES: 
+	com.baidu.location.f {'action': [u'com.baidu.location.service_v2.2']}
+	csvl.kgne.wqdg.uwil.wviz 
+	cn.bmob.push.lib.service.PushService {'action': [u'cn.bmob.push.lib.service.PushService']}
+	cn.bmob.im.poll.BmobPollService {'action': [u'cn.bmob.im.service.BmobPollService']}
+RECEIVERS: 
+	cn.bmob.push.PushReceiver {'action': [u'android.intent.action.BOOT_COMPLETED', u'android.intent.action.USER_PRESENT', u'android.net.conn.CONNECTIVITY_CHANGE']}
+	com.bmob.im.demo.MyMessageReceiver {'action': [u'cn.bmob.push.action.MESSAGE']}
+PROVIDERS:  []
+Native code: False
+Dynamic code: False
+Reflection code: True
+Ascii Obfuscation: False
+Lcom/qihoo/util/StubApplication; <init> ['ANDROID', 'APP']
+Lcom/qihoo/util/StubApplication; ChangeTopApplication ['ANDROID', 'APP']
+Lcom/qihoo/util/StubApplication; copy ['ANDROID', 'CONTENT']
+Lcom/qihoo/util/StubApplication; getNewAppInstance ['ANDROID', 'CONTENT']
+Lcom/qihoo/util/StubApplication; attachBaseContext ['JAVA_REFLECTION', 'ANDROID', 'CONTENT', 'APP']
+Lcom/qihoo/util/StubApplication; onCreate ['ANDROID', 'APP']

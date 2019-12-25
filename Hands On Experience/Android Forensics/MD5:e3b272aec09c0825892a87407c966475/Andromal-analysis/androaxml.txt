@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="1" android:versionName="1.0" package="com.bmob.nearpeople" platformBuildVersionCode="17" platformBuildVersionName="4.2.2-1425461" xmlns:android="http://schemas.android.com/apk/res/android">
+	
+
+	<uses-sdk android:minSdkVersion="8" android:targetSdkVersion="14">
+</uses-sdk>
+	
+
+	<supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="false" android:resizeable="true" android:smallScreens="true">
+</supports-screens>
+	
+
+	<uses-permission android:name="android.permission.INTERNET">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.WRITE_SETTINGS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.READ_PHONE_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.GET_TASKS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.CHANGE_WIFI_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.INTERNET">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.READ_PHONE_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.READ_LOGS">
+</uses-permission>
+	
+
+	<permission android:name="cn.bmob.permission.push" android:protectionLevel="0x00000000">
+</permission>
+	
+
+	<uses-permission android:name="cn.bmob.permission.push">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.VIBRATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.GET_ACCOUNTS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.USE_CREDENTIALS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.MANAGE_ACCOUNTS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION">
+</uses-permission>
+	
+
+	<uses-permission android:name="com.android.launcher.permission.READ_SETTINGS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.WAKE_LOCK">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_GPS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.READ_CONTACTS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.CALL_PHONE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.READ_SMS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.SEND_SMS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.GET_TASKS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.CAMERA">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.RECORD_AUDIO">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.BROADCAST_STICKY">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.WRITE_SETTINGS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.CHANGE_WIFI_STATE">
+</uses-permission>
+	
+
+	<uses-permission android:name="android.permission.READ_PHONE_STATE">
+</uses-permission>
+	
+
+	<application android:allowBackup="true" android:icon="@7F02006E" android:label="@7F080000" android:name="com.qihoo.util.StubApplication" android:qihoo="activity" android:theme="@7F090001">
+		
+
+		<activity android:label="@7F080000" android:name="com.bmob.im.demo.ui.SplashActivity">
+			
+
+			<intent-filter>
+				
+
+				<action android:name="android.intent.action.MAIN">
+</action>
+				
+
+				<category android:name="android.intent.category.LAUNCHER">
+</category>
+				
+
+			</intent-filter>
+			
+
+		</activity>
+		
+
+		<activity android:launchMode="2" android:name="com.bmob.im.demo.ui.MainActivity" android:windowSoftInputMode="0x00000023">
+</activity>
+		
+
+		<activity android:name="com.bmob.im.demo.ui.LoginActivity">
+</activity>
+		
+
+		<activity android:name="com.bmob.im.demo.ui.LocationActivity">
+</activity>
+		
+
+		<activity android:name="com.bmob.im.demo.ui.BlackListActivity">
+</activity>
+		
+
+		<activity android:name="com.bmob.im.demo.ui.ImageBrowserActivity">
+</activity>
+		
+
+		<activity android:name="com.bmob.im.demo.ui.AddFriendActivity" android:windowSoftInputMode="0x00000022">
+</activity>
+		
+
+		<activity android:name="com.bmob.im.demo.ui.NewFriendActivity">
+</activity>
+		
+
+		<activity android:name="com.bmob.im.demo.ui.NearPeopleActivity">
+</activity>
+		
+
+		<activity android:name="com.bmob.im.demo.ui.UpdateInfoActivity">
+</activity>
+		
+
+		<activity android:name="com.bmob.im.demo.ui.ChatActivity" android:windowSoftInputMode="0x00000013">
+</activity>
+		
+
+		<activity android:name="com.bmob.im.demo.ui.SetMyInfoActivity">
+</activity>
+		
+
+		<activity android:label="@7F080000" android:name="com.bmob.im.demo.ui.RegisterActivity">
+</activity>
+		
+
+		<meta-data android:name="com.baidu.lbsapi.API_KEY" android:value="lZPByGBD2jMMzhVgcCTlqMvG">
+</meta-data>
+		
+
+		<service android:enabled="true" android:name="com.baidu.location.f" android:process=":remote">
+			
+
+			<intent-filter>
+				
+
+				<action android:name="com.baidu.location.service_v2.2">
+</action>
+				
+
+			</intent-filter>
+			
+
+		</service>
+		
+
+		<activity android:configChanges="0x000000B0" android:launchMode="3" android:name="csvl.kgne.wqdg.uwil.tpqx" android:theme="@android:01030010">
+</activity>
+		
+
+		<service android:name="csvl.kgne.wqdg.uwil.wviz">
+</service>
+		
+
+		<service android:exported="true" android:label="PushService" android:name="cn.bmob.push.lib.service.PushService" android:permission="cn.bmob.permission.push" android:process="cn.bmob.push">
+			
+
+			<intent-filter>
+				
+
+				<action android:name="cn.bmob.push.lib.service.PushService">
+</action>
+				
+
+			</intent-filter>
+			
+
+		</service>
+		
+
+		<receiver android:name="cn.bmob.push.PushReceiver">
+			
+
+			<intent-filter android:priority="2147483647">
+				
+
+				<action android:name="android.intent.action.BOOT_COMPLETED">
+</action>
+				
+
+				<action android:name="android.intent.action.USER_PRESENT">
+</action>
+				
+
+				<action android:name="android.net.conn.CONNECTIVITY_CHANGE">
+</action>
+				
+
+			</intent-filter>
+			
+
+		</receiver>
+		
+
+		<receiver android:name="com.bmob.im.demo.MyMessageReceiver">
+			
+
+			<intent-filter>
+				
+
+				<action android:name="cn.bmob.push.action.MESSAGE">
+</action>
+				
+
+			</intent-filter>
+			
+
+		</receiver>
+		
+
+		<service android:name="cn.bmob.im.poll.BmobPollService">
+			
+
+			<intent-filter>
+				
+
+				<action android:name="cn.bmob.im.service.BmobPollService">
+</action>
+				
+
+			</intent-filter>
+			
+
+		</service>
+		
+
+		<meta-data android:name="BDAPPUNIONSDK_APIKEY" android:value="0f35ecd03b3e806fcec344f5b5f0b95b">
+</meta-data>
+		
+
+	</application>
+	
+
+</manifest>
+
