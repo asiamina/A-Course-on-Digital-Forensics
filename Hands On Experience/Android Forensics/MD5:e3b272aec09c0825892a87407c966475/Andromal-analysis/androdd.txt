@@ -1,1 +1,0 @@
-Please, specify an input file and an output directory
