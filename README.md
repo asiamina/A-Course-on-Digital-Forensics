@@ -118,6 +118,7 @@ In preperation of this course including lecture notes, lab assignments, case stu
 * Niklas Gollenstede (silver contributor: contributed to 1) some other case studies)
 * Gantaphon Chalumporn (silver contributor: contributed to 1) some other case studies)
 * Fulsy Theophitle (Contributor: Contributed to 1) Hands-on-Experience on Android Forensics)
+* Santosh Shrestha (Contributor: Contributed to 1) Hands-on-Experience on Android Forensics)
 
 
 ## Special Thanks
