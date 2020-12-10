@@ -121,6 +121,9 @@ In preperation of this course including lecture notes, lab assignments, case stu
 * Shuva Dass (Contributor to 1) Hands-on-Experience on Android Forensics)
 * Fulsy Theophitle (Contributor: Contributed to 1) Hands-on-Experience on Android Forensics)
 * Santosh Shrestha (Contributor: Contributed to 1) Hands-on-Experience on Android Forensics)
+* Anish Chhetri (Contributor: Contributed to 1) Android Forensics with Burp Suite)
+* Shashank Shrestha (Contributor: Contributed to 1) Android Forensics with Burp Suite)
+* Aashish Aman (Contributor: Contributed to 1) Android Forensics with Burp Suite)
 
 
 ## Special Thanks
