@@ -129,7 +129,10 @@ In preperation of this course including lecture notes, lab assignments, case stu
 
 
 ## Special Thanks
-* The National Science Foundation (NSF) to support and sponsor the project
+* The National Science Foundation (NSF) to support and sponsor the project 
+1. [NSF Grant Number: 1516636 ](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1516636)
+2. [NSF Grant Number: 1821560](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1821560)
+
 * The CS Department for allowing offering this course for two consequtive years in order to prepare the materials. 
 
 
