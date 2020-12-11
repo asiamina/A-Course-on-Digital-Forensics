@@ -1,5 +1,5 @@
 ## Course Update
-(December 2019) Several hands-on experiences were added on "Android Forensics" 
+(December 2020) Several tutotials added on security tools such as Kali Linux, Burp Suite, etc.  
 
 # Instructional Materials for the Digital Forensics Course
 ## Texas Tech University, Computer Science Department 
