@@ -124,6 +124,8 @@ In preperation of this course including lecture notes, lab assignments, case stu
 * Anish Chhetri (Contributor: Contributed to 1) Android Forensics with Burp Suite)
 * Shashank Shrestha (Contributor: Contributed to 1) Android Forensics with Burp Suite)
 * Aashish Aman (Contributor: Contributed to 1) Android Forensics with Burp Suite)
+* Rojina Shrestha (Contributor: Contributed to 1) Armitage)
+* Sujan Roka (Contributor: Contributed to 1) Armitage)
 
 
 ## Special Thanks
