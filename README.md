@@ -1,5 +1,6 @@
 ## Course Update
 (Jan. 2021) A few video tutorials are uploaded to youtube and added to the course github repository. 
+
 (December 2020) Several tutotials added on security tools such as Kali Linux, Burp Suite, etc.  
 
 # Instructional Materials for the Digital Forensics Course
