@@ -4,7 +4,7 @@
 
 2) A Video Tutorial on Androguard
 
-[![A Tutorial on Androguard](https://i9.ytimg.com/vi/yJx0a1ICyUw/mq1.jpg?sqp=CIyWuf8F&rs=AOn4CLDCF0pcCASb6aE_1DmXMKw13NURfg)](https://youtu.be/yJx0a1ICyUw) 
+[![A Tutorial on Androguard](https://i9.ytimg.com/vi/yJx0a1ICyUw/mq1.jpg?sqp=CIS30_8F&rs=AOn4CLBZfcsAYIxVU4uWrFmknP9a01bFTw)](https://youtu.be/yJx0a1ICyUw) 
 
 3) A Video Tutorial on Editing Android APK files
 
