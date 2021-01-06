@@ -1,12 +1,12 @@
 1) A Video Tutorial on JADX: DEX to Java Decompiler
 
-[![A Tutorial on JADX: DEX to Java Decompiler](https://i9.ytimg.com/vi/WfL53todv90/mq1.jpg?sqp=CIS30_8F&rs=AOn4CLAKGYpbXDH5VF9IFSTZhgUwafeBJQ)](https://youtu.be/WfL53todv90) 
+[![A Tutorial on JADX: DEX to Java Decompiler](https://i9.ytimg.com/vi_webp/WfL53todv90/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLAWSW7RvpzUT9D3DNz73IO_0B6iww)](https://youtu.be/WfL53todv90) 
 
 2) A Video Tutorial on Androguard
 
-[![A Tutorial on Androguard](https://i9.ytimg.com/vi/yJx0a1ICyUw/mq1.jpg?sqp=CIS30_8F&rs=AOn4CLBZfcsAYIxVU4uWrFmknP9a01bFTw)](https://youtu.be/yJx0a1ICyUw) 
+[![A Tutorial on Androguard](https://i9.ytimg.com/vi_webp/yJx0a1ICyUw/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLCh20LahsxgQI7wRlB9Sh2PbcdkyQ)](https://youtu.be/yJx0a1ICyUw) 
 
 3) A Video Tutorial on Editing Android APK files
 
-[![A Tutorial on Editing Android APK Files](https://i9.ytimg.com/vi/o7zgakEbADo/mq1.jpg?sqp=CIS30_8F&rs=AOn4CLD22qMhflIYICUwRkwt-mmP9jfmsQ)](https://youtu.be/o7zgakEbADo) 
+[![A Tutorial on Editing Android APK Files](https://i9.ytimg.com/vi_webp/o7zgakEbADo/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLBcH-PQyClBptO_AyylokvjTo8UpQ)](https://youtu.be/o7zgakEbADo) 
  
