@@ -6,7 +6,7 @@
 
 [![A Tutorial on Androguard](https://i9.ytimg.com/vi_webp/yJx0a1ICyUw/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLCh20LahsxgQI7wRlB9Sh2PbcdkyQ)](https://youtu.be/yJx0a1ICyUw) 
 
-3) A Video Tutorial on Editing Android APK files using APKTool
+3) A Video Tutorial on Editing Android APK Files using APKTool
 
 [![A Tutorial on Editing Android APK Files](https://i9.ytimg.com/vi_webp/o7zgakEbADo/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLBcH-PQyClBptO_AyylokvjTo8UpQ)](https://youtu.be/o7zgakEbADo) 
  
