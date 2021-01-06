@@ -2,7 +2,7 @@
 
 [![A Tutorial on JADX: DEX to Java Decompiler](https://i9.ytimg.com/vi_webp/WfL53todv90/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLAWSW7RvpzUT9D3DNz73IO_0B6iww)](https://youtu.be/WfL53todv90) 
 
-2) A Video Tutorial on Androguard
+2) A Video Tutorial on Androguard: Reverse Engineering of Android Apps
 
 [![A Tutorial on Androguard: Reverse Engineering of Android Apps](https://i9.ytimg.com/vi_webp/yJx0a1ICyUw/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLCh20LahsxgQI7wRlB9Sh2PbcdkyQ)](https://youtu.be/yJx0a1ICyUw) 
 
