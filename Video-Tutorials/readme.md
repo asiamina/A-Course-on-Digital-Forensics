@@ -10,3 +10,6 @@
 
 [![A Tutorial on APKTool: Editing Android APK Files](https://i9.ytimg.com/vi_webp/o7zgakEbADo/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLBcH-PQyClBptO_AyylokvjTo8UpQ)](https://youtu.be/o7zgakEbADo) 
  
+4) A Video tutorial on DEX2JAR and JD-GUI for Reverse Engineering of Android APK Files
+
+[![A Tutorial on DEX2JAR and JD-GUI for Reverse Engineering of Android APK Files](https://i9.ytimg.com/vi_webp/o7zgakEbADo/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLBcH-PQyClBptO_AyylokvjTo8UpQ)](https://youtu.be/yGxH72e9V0c) 
