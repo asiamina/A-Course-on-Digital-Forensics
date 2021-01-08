@@ -4,7 +4,7 @@
 
 2) A Video Tutorial on Androguard: Reverse Engineering of Android Apps
 
-[![A Tutorial on Androguard: Reverse Engineering of Android Apps](https://i9.ytimg.com/vi_webp/yJx0a1ICyUw/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLCh20LahsxgQI7wRlB9Sh2PbcdkyQ)](https://youtu.be/yJx0a1ICyUw) 
+[![A Tutorial on Androguard: Reverse Engineering of Android Apps](https://github.com/asiamina/A-Course-on-Digital-Forensics/blob/master/images/androguard.jpg)](https://youtu.be/yJx0a1ICyUw) 
 
 3) A Video Tutorial on APKTool: Editing Android APK Files 
 
