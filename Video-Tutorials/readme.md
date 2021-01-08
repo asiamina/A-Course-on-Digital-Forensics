@@ -8,7 +8,7 @@
 
 3) A Video Tutorial on APKTool: Editing Android APK Files 
 
-[![A Tutorial on APKTool: Editing Android APK Files](https://i9.ytimg.com/vi_webp/o7zgakEbADo/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLBcH-PQyClBptO_AyylokvjTo8UpQ)](https://youtu.be/o7zgakEbADo) 
+[![A Tutorial on APKTool: Editing Android APK Files](https://github.com/asiamina/A-Course-on-Digital-Forensics/blob/master/images/apk.jpg)](https://youtu.be/o7zgakEbADo) 
  
 4) A Video tutorial on DEX2JAR and JD-GUI for Reverse Engineering of Android APK Files
 
