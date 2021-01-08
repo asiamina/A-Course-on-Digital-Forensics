@@ -1,6 +1,6 @@
 1) A Video Tutorial on JADX: DEX to Java Decompiler
 
-[![A Tutorial on JADX: DEX to Java Decompiler](https://i9.ytimg.com/vi_webp/WfL53todv90/mqdefault.webp?time=1609964700000&sqp=CJy52P8F&rs=AOn4CLAWSW7RvpzUT9D3DNz73IO_0B6iww)](https://youtu.be/WfL53todv90) 
+[![A Tutorial on JADX: DEX to Java Decompiler](https://github.com/asiamina/A-Course-on-Digital-Forensics/blob/master/images/jadx.jpg)](https://youtu.be/WfL53todv90) 
 
 2) A Video Tutorial on Androguard: Reverse Engineering of Android Apps
 
