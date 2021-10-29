@@ -118,6 +118,7 @@ In preperation of this course including lecture notes, lab assignments, case stu
 * Sevgi Arca (silver contributor: contributed to 1) some other case studies)
 * Justin Lugo (silver contributor: contributed to 1) some other case studies)
 * Vinh Nguyen (silver contributor: contributed to 1) some other case studies)
+* Faranak Abri (silver contributor: contributed to a) hands on experiences and case studies)
 * Niklas Gollenstede (silver contributor: contributed to 1) some other case studies)
 * Gantaphon Chalumporn (silver contributor: contributed to 1) some other case studies)
 * Shuva Dass (Contributor to 1) Hands-on-Experience on Android Forensics)
