@@ -144,6 +144,7 @@ In preperation of this course including lecture notes, lab assignments, case stu
 * Sujan Roka (Contributor: Contributed to 1) Armitage)
 * Hasan Al-Qudah (Contributor: Contributed to 1) Malware Analysis Lecture Notes)
 * Yathartha Regmi (Contributed to 1) Malware Analysis using Rekall)
+* Sean Bosley (Contributed to 1) Malware Analysis using Rekall)
 
 
 ## Special Thanks
