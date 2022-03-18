@@ -145,6 +145,8 @@ In preperation of this course including lecture notes, lab assignments, case stu
 * Hasan Al-Qudah (Contributor: Contributed to 1) Malware Analysis Lecture Notes)
 * Yathartha Regmi (Contributed to 1) Malware Analysis using Rekall)
 * Sean Bosley (Contributed to 1) Malware Analysis using Rekall)
+* John Parker (Contributed to 1) Malware Analysis using Rekall)
+
 
 
 ## Special Thanks
