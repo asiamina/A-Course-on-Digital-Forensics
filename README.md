@@ -1,4 +1,6 @@
 ## Course Update
+(March 2022) A set of tutorials on Cuckoo Sandbox was created and uploaded to the Tool-Tutorials folder.
+
 (March 2022) A set of tutorials and hands-on experiences on malware analysis using Rekall uploaded to the Tools-Tutorials folder.
 
 (March 2022) A new module on Malware Analysis along with a few hands-on experience were added to the Lecture Notes folder.
