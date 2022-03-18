@@ -146,8 +146,9 @@ In preperation of this course including lecture notes, lab assignments, case stu
 * Yathartha Regmi (Contributed to 1) Malware Analysis using Rekall)
 * Sean Bosley (Contributed to 1) Malware Analysis using Rekall)
 * John Parker (Contributed to 1) Malware Analysis using Rekall)
-
-
+* Sharma, Pranaya (Contributed to 1) Cuckoo Sandbox Installatyion guide)
+* Sitaula, Bibek (Contributed to 1) Cuckoo Sandbox Installatyion guide)
+* Sushil GC (Contributed to 1) Cuckoo Sandbox Installatyion guide)
 
 ## Special Thanks
 * The National Science Foundation (NSF) to support and sponsor the project 
