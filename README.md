@@ -1,6 +1,6 @@
 ## Course Update
 (March 2022) A set of tutorials and hands-on experiences on using Rekall uploaded to the Tools-Tutorials folder.
-(March 2022) A new module on Malware Analysis along with a few hands-on experience were added to the course github repository.
+(March 2022) A new module on Malware Analysis along with a few hands-on experience were added to the Lecture Notes folder.
 (January 2021) A few video tutorials are uploaded to youtube and added to the course github repository. 
 (December 2020) Several tutotials added on security tools such as Kali Linux, Burp Suite, etc.  
 
