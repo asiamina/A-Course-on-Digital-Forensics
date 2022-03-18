@@ -1,6 +1,6 @@
 ## Course Update
-(Jan. 2021) A few video tutorials are uploaded to youtube and added to the course github repository. 
-
+(March 2022) A new module on Malware Analysis along with a few hands-on experience were added to the course github repository.
+(January 2021) A few video tutorials are uploaded to youtube and added to the course github repository. 
 (December 2020) Several tutotials added on security tools such as Kali Linux, Burp Suite, etc.  
 
 # Instructional Materials for the Digital Forensics Course
