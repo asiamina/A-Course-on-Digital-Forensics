@@ -116,7 +116,7 @@ There are four sections, each would require a separate textbook. Here is the lis
 
 ## Additional References
 
-[DigForPort](http://www.myweb.ttu.edu/asiamina/DigForPort/index.html) is a portal that lists useful materials and tutorials for teaching and learning digital forensics.
+[WikiSET](https://asiamina.github.io/WikiSET/) is a portal, called Wiki for Security Training and Education, that lists useful materials and tutorials for teaching and learning digital forensics.
 
 ## Course Team-based Project
 
