@@ -20,7 +20,7 @@ This repository contains the instructional modules and course materials develope
 ## About the Course
 Digital forensics has become a must-have skillset for IT professionals and in particular for security experts. Digital forensics and incident response play key roles in detecting and analyzing malware, security breaches, possible countermeasures, and tracing online criminal activities. Digital forensics, malware detection and analysis, and incident responses techniques are very wide and system-dependent. For instance, the techniques and tools used in detecting malware in Windows operating system are quite different than those used in Linux and Mac. Nevertheless, the security expert and more importantly ethical hackers need to be aware of the core and basic general topics and cocepts as well as platform-dependent techniques in order to be able to conduct penetration testing more effectively. 
 
-This course introduces the basic concepts and techniques usually employed in digital forensics and malware analysis. The contents are primarily divided into five major topics: 
+This course introduces the basic concepts and techniques usually employed in digital forensics and malware analysis. The contents are primarily divided into the following major topics: 
 
 1. Reverse Engineering
 2. Disk Forensics
