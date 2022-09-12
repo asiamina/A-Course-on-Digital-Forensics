@@ -27,6 +27,7 @@ This course introduces the basic concepts and techniques usually employed in dig
 3. Memory Forensics
 4. Network Forensics
 5. Malware Analysis
+6. Mobile Forensics
 
 These four topics constitute the skeleton of security incidents and challenges. The security and forensics challenges usually exercised at the major hacking conferences such as DEFCON and Black Hat usually require in-depth knowledge of these four major topics when performed in different platforms. 
 
@@ -93,11 +94,19 @@ There are four sections, each would require a separate textbook. Here is the lis
 * Published: 2012
 * Publisher: Prentice Hall
 
-5. Network Forensics
+5. Malware Analysis
 * Book: [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://doc.lagout.org/security/Malware%20%26%20Forensics/Practical%20Malware%20Analysis.pdf)
 * Author: Book by Andrew Honig and Michael Sikorski
 * Published: 2012
 * Publisher: No Starch Press
+
+6. Mobile Forensics 
+* Book: [Mobile Forensics - The File Format Handbook](https://www.researchgate.net/publication/360353993_2022_Book_Mobile_Forensics_-The_File_Format_Handbook)
+* Author: Book by Christian Hummert and Dirk Pawlasczyk
+
+* Published: 2022
+* Publisher: Springer
+
 
 
 ## Additional Hacking Textbooks
