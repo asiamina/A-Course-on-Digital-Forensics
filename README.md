@@ -1,4 +1,8 @@
 ## Course Update
+(December 2022) A large set of hands-on experiences (18 samples) on malicious APK files created.
+
+(December 2022) A large set of hands-on experiences (18 samples) on malicious PDF files created.
+
 (March 2022) A set of tutorials on Cuckoo Sandbox was created and uploaded to the Tool-Tutorials folder.
 
 (March 2022) A set of tutorials and hands-on experiences on malware analysis using Rekall uploaded to the Tools-Tutorials folder.
