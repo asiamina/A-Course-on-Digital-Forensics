@@ -41,3 +41,5 @@ Deliverable: A document showing your analysis of the android app file along with
 Due Date for Stage 2: November 10 Midnight – Submission through the Blackboard System
 
 
+Note on each sample:
+Each APK sample is created by a team of students (red team) and analyzed by another team of students (blue team).  
