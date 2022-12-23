@@ -54,3 +54,6 @@ Deliverable: A document showing your analysis of the pdf file along with some sn
 Due Date for Stage 2: October 10 Midnight – Submission through the Blackboard System
 
 
+
+Note on each sample:
+Each PDF sample is created by a team of students (red team) and analyzed by another team of students (blue team). 
