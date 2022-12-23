@@ -1,4 +1,6 @@
 ## Course Update
+(December 2022) A new course module on "Mobile Disk Forensics" is created. 
+
 (December 2022) A tutorial on practicing vulnerability detections on vulnerable websites offered by VulnHub.com is created.
 
 (December 2022) A tutorial on using SQL to query SNORT log file is created. 
