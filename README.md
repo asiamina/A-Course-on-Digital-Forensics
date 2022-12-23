@@ -1,4 +1,10 @@
 ## Course Update
+(December 2022) A tutorial on practicing vulnerability detections on vulnerable websites offered by VulnHub.com is created.
+
+(December 2022) A tutorial on using SQL to query SNORT log file is created. 
+
+(December 2022) An extensive tuorial on disk image cration/analysis using DISK EXPLORER NTFS.vR DRIVEvWINHEXvACCESS DATA FTK is created. A disk image (dd file) of size 1.02 GB is also created.
+
 (December 2022) A large set of hands-on experiences (18 samples) on malicious APK files created.
 
 (December 2022) A large set of hands-on experiences (18 samples) on malicious PDF files created.
@@ -164,6 +170,10 @@ In preperation of this course including lecture notes, lab assignments, case stu
 * Sharma, Pranaya (Contributed to 1) Cuckoo Sandbox Installatyion guide)
 * Sitaula, Bibek (Contributed to 1) Cuckoo Sandbox Installatyion guide)
 * Sushil GC (Contributed to 1) Cuckoo Sandbox Installatyion guide)
+* Some other contributions:
+** Contributed to malicious PDF and APK creation and analysis:
+*** KAPARTHI SAITEJA, SAI SANJAY NAGARUR, VENKATESH PATHIPATI, Zerubabel Armah, Dileep Narne, Bhogadula Lakshmi Sowjanya, Dinku Dwijesh Gullapalli, Diego Salas Noain, 
+Bipsa Paka, Prakriti Adhikari, Denish Otieno, Sri Nagini Sravishtha ETTE, Udochukwu NWANDIKOM, Diane RENARD, Manish Wagle, Simran Thapa, Arnab Zubair, Ravi Sankar Gogineni, Sai Meghana Akula, Venkata Veera Siva Dasari, Saroj Gopali, Bipin Chetri, Umarani Saidhulu Thandu, Kalyan Srinivas Krishnapasetty, Ramya Sree Mandava, Venkat Nithin Atturu, Sulakshana Mucheli, Nagavarshini Surapaneni, ROHITH SAI PRASAD PEKETI, UDHA SATYA SAI VENKAT REDDY GUDLA, Ranjith Boya, Gayathri Sowjanya Pothineni, Keerthana Katamneni, Pallavi Zambare, Manisha Ratna, Nalluri Mouni Soundarya, Raviteja Sirisanagandla, ALEKHYA BUGATA, KIRAN MAI MALLUVALASA, MADHURI GOKARAJU, Sai Saketh Thatikonda, Meghana Reddy Kosireddy, Hemanth Reddy Nagireddy, Pawan Kumar Sah, Rama Hruday Bandaru.
 
 ## Special Thanks
 * The National Science Foundation (NSF) to support and sponsor the project 
