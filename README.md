@@ -5,7 +5,7 @@
 
 (December 2022) A tutorial on using SQL to query SNORT log file is created. 
 
-(December 2022) An extensive tuorial on disk image cration/analysis using DISK EXPLORER NTFS.vR DRIVEvWINHEXvACCESS DATA FTK is created. A disk image (dd file) of size 1.02 GB is also created.
+(December 2022) An extensive tuorial on disk image cration/analysis using DISK EXPLORER NTFS, R DRIVE, WINHEX, ACCESS DATA FTK is created. A disk image (dd file) of size 1.02 GB is also created.
 
 (December 2022) A large set of hands-on experiences (18 samples) on malicious APK files created.
 
