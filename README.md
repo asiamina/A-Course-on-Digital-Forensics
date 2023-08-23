@@ -172,6 +172,7 @@ In preperation of this course including lecture notes, lab assignments, case stu
 * Sharma, Pranaya (Contributed to 1) Cuckoo Sandbox Installatyion guide)
 * Sitaula, Bibek (Contributed to 1) Cuckoo Sandbox Installatyion guide)
 * Sushil GC (Contributed to 1) Cuckoo Sandbox Installatyion guide)
+* Turaga, Venkata Sai Prathyush: Contributed to the collection of resources related to CEH certification.
 * Some other contributions:
 ** Contributed to malicious PDF and APK creation and analysis:
 *** KAPARTHI SAITEJA, SAI SANJAY NAGARUR, VENKATESH PATHIPATI, Zerubabel Armah, Dileep Narne, Bhogadula Lakshmi Sowjanya, Dinku Dwijesh Gullapalli, Diego Salas Noain, 
