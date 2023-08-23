@@ -1,4 +1,6 @@
 ## Course Update
+(August 2023) Resources for CEH (Certified Ethical Hackers) are uploaded to the repo.
+
 (December 2022) A new course module on "Mobile Disk Forensics" is created. 
 
 (December 2022) A tutorial on practicing vulnerability detections on vulnerable websites offered by VulnHub.com is created.
