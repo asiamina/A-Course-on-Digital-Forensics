@@ -8,3 +8,5 @@ t.me/ceh_v11_exam_full_course
 https://disboard.org/servers/tag/ethical-hacking
 (Collection of discord servers for ethical hacking)
 
+Good GitHub Repo for Practices of CEH:
+https://github.com/filipi86
